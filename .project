@@ -43,6 +43,11 @@
 			<locationURI>SIGASI_LIBRARY_UNISIM</locationURI>
 		</link>
 		<link>
+			<name>Common Libraries/vunit_lib</name>
+			<type>2</type>
+			<locationURI>SIGASI_LIBRARY_VUNIT_LIB</locationURI>
+		</link>
+		<link>
 			<name>Common Libraries/xpm</name>
 			<type>2</type>
 			<locationURI>SIGASI_LIBRARY_XPM</locationURI>

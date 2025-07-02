@@ -5,6 +5,7 @@
   <Mappings Location="Common Libraries" Library="not mapped"/>
   <Mappings Location="Common Libraries/STD" Library="std"/>
   <Mappings Location="Common Libraries/unisim" Library="unisim"/>
+  <Mappings Location="Common Libraries/vunit_lib" Library="vunit_lib"/>
   <Mappings Location="" Library="work"/>
   <Mappings Location="Common Libraries/xpm" Library="xpm"/>
 </com.sigasi.hdt.shared.librarymapping.model:LibraryMappings>
