@@ -1,2 +1,5 @@
+130/severity//verilog=IGNORE
+170/rtl/severity//verilog/clk_wiz_0_mmcm_drp.v=IGNORE
+170/severity//verilog/clk_wiz_0_mmcm_drp.v=IGNORE
 eclipse.preferences.version=1
 isEnabled=true
