@@ -1,5 +1,6 @@
 # Clock Glitch Generator
 This repository contains the VHDL code of the Paper "Glitch Happens: Attacking the AMD-Xilinx PLL with a Clock Glitch Generator" as presented at DSD 2025.
+[![DOI](https://zenodo.org/badge/1012590401.svg)](https://doi.org/10.5281/zenodo.15793033)
 
 ## VHDL
 The VHDL code of the Glitch Generator is provided in [vhdl/core.vhd](vhdl/core.vhd). The Glitch Generator was implemented on a Zedboard from Digilent which deploys the Zynq-7000.
